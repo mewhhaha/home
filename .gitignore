@@ -1,2 +1,10 @@
 *
 !.gitignore
+!.config/
+!.config/helix/
+!.config/helix/config.toml
+!.config/helix/themes/
+!.config/helix/themes/ph.toml
+!.config/ghostty/
+!.config/ghostty/config
+
