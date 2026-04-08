@@ -1,0 +1,33 @@
+theme = "ph"
+
+[editor]
+color-modes = true
+line-number = "relative"
+mouse = false
+end-of-line-diagnostics = "hint"
+rainbow-brackets = true
+
+[editor.soft-wrap]
+enable = true
+
+[editor.lsp]
+display-inlay-hints = true
+display-color-swatches = true
+document-color-mode = "background"
+
+[editor.auto-save]
+focus-lost = true
+
+[editor.indent-guides]
+render = true
+character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
+skip-levels = 1
+
+[editor.inline-diagnostics]
+cursor-line = "error"
+other-lines = "error"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
