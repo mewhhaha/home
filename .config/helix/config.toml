@@ -13,7 +13,6 @@ enable = true
 [editor.lsp]
 display-inlay-hints = true
 display-color-swatches = true
-document-color-mode = "background"
 
 [editor.auto-save]
 focus-lost = true

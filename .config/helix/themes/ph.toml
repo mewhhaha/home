@@ -162,7 +162,7 @@
 "ui.virtual.indent-guide" = { fg = "border" }
 "ui.virtual.inlay-hint" = { fg = "subtle", bg = "surface", modifiers = ["italic"] }
 "ui.virtual.inlay-hint.parameter" = { fg = "text_dim", bg = "surface", modifiers = ["italic"] }
-"ui.virtual.inlay-hint.type" = { fg = "sky", bg = "surface", modifiers = ["italic"] }
+"ui.virtual.inlay-hint.type" = { fg = "subtle", bg = "surface", modifiers = ["italic"] }
 "ui.virtual.jump-label" = { fg = "orange", modifiers = ["bold"] }
 "ui.virtual.ruler" = { bg = "surface" }
 "ui.virtual.whitespace" = { fg = "border_hi" }
